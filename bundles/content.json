@@ -1,0 +1,84 @@
+{
+  "/about": {
+    "title": "About",
+    "view": "about",
+    "text": "Hello. I am the co-Executive Director of Code for Science & Society, where I support the work of the Dat project, Stencila, and ScienceFair.\n\nI am committed to working on projects that apply open source philosophy to research and scholarship to improve research transparency, reproducibility, and public access to information. I completed a PhD in Neuroscience at Oregon Health & Science University in 2016. During my PhD training, I received a National Science Foundation Graduate Research Fellowship. I lead student advocacy efforts on my campus, including the passage of OHSU's PhD student parental leave policy, and supported the local open research community through Open Insight PDX, BioData Club, and Science Hack Day PDX. In 2016, I joined Mozilla's Science Lab as a Mozilla Fellow for Science, where I ran in Working Open Workshops around the world and explored decentralized data archiving as a DataRescue strategy.",
+    "visible": true,
+    "name": "about",
+    "path": "/content/about",
+    "url": "/about",
+    "files": {},
+    "pages": {}
+  },
+  "/entries": {
+    "title": "Entries",
+    "view": "entries",
+    "visible": false,
+    "sort": "reverse-chronological",
+    "name": "entries",
+    "path": "/content/entries",
+    "url": "/entries",
+    "files": {},
+    "pages": {
+      "resume": {
+        "name": "resume",
+        "path": "/content/entries/resume",
+        "url": "/entries/resume",
+        "source": "/content/entries/resume"
+      },
+      "css": {
+        "name": "css",
+        "path": "/content/entries/css",
+        "url": "/entries/css",
+        "source": "/content/entries/css"
+      }
+    }
+  },
+  "/entries/resume": {
+    "title": "Resume",
+    "view": "entry",
+    "date": "2018-03-20",
+    "text": "During my fellowship with Mozilla Science, I got into the habit of updating a markdown resume with all the speaking, workshops, conferences, and other stuff I am doing. It's way too much information. But it helps me keep track of everything, so I keep it updated. (Thanks Aure!) Check it out [here](https://github.com/daniellecrobinson/daniellecrobinson.github.io/blob/master/Danielle_Robinson_resume.md).",
+    "name": "resume",
+    "path": "/content/entries/resume",
+    "url": "/entries/resume",
+    "files": {},
+    "pages": {}
+  },
+  "/entries/css": {
+    "title": "Code for Science & Society",
+    "view": "entry",
+    "date": "2018-05-16",
+    "text": "We empower communities to work together and build innovative technology for the public good. Learn more about our work on [our site](codeforscience.org).",
+    "name": "css",
+    "path": "/content/entries/css",
+    "url": "/entries/css",
+    "files": {},
+    "pages": {}
+  },
+  "/": {
+    "title": "Danielle Robinson",
+    "view": "home",
+    "text": "Enokitake, also Enokidake or Enoki, are cultivars of Flammulina velutipes, also known by the name golden needle mushroom or lily mushroom.",
+    "foreground": "#ffffff",
+    "background": "#000000",
+    "name": "content",
+    "path": "/content",
+    "url": "/",
+    "files": {},
+    "pages": {
+      "about": {
+        "name": "about",
+        "path": "/content/about",
+        "url": "/about",
+        "source": "/content/about"
+      },
+      "entries": {
+        "name": "entries",
+        "path": "/content/entries",
+        "url": "/entries",
+        "source": "/content/entries"
+      }
+    }
+  }
+}
