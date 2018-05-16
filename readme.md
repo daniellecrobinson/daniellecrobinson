@@ -1,12 +1,16 @@
-<h1 align="center">Enoki / Jacinto</h1>
+Hey! This is where I am playing around with [Enoki](https://github.com/enokidotsite) to make a personal site. 
+This site is based on Enoki / Jacinto. 
 
-A simple blog design for Enoki.
+I've moved away from panel.enoki and I'm just editing my files locally. 
 
-Consider it a boilerplate instead of a reference to study. Takes these ideas with you to use from memory in the future.
+The first thing I wanted to do was remove the date stamps from the blog. It didn't make sense for me to have dated posts, but when I deleted them the website wasn't happy. I asked for help to figure out where dates were required and deleted a line from entry.js `<li>${date}</li>`
+I also needed to add a `.datignore` file as the earlier enoki I was playign with didnt have one. 
 
-Includes [Choo](https://github.com/choojs/choo) as a front-end framework, and [Sheetify](https://github.com/stackcss/sheetify) for css-in-js.
+## From Enoki:
 
-## Customization
+Includes [Choo](https://github.com/choojs/choo) as a front-end framework, and [Sheetify](https://github.com/stackcss/sheetify) for css-in-js 
+
+### Customization
 
 If you created your site from the Enoki Panel, `cd` to the `source` directory and run `npm install`. Once the dependencies are installed, run `npm start` for development and `npm run build` for bundling.
 
