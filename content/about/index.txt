@@ -2,8 +2,8 @@ title: About
 ----
 view: about
 ----
-text: Hello. I work on projects that open research, improve reproducibility, and create public access to information. I am the Co-Executive Director of [Code for Science & Society](codeforscience.org). Along with my Co-Director [Joe Hand](jhand.space), I run programs that support open source communities, build open source public interest technologies, and sponsor projects to achieve their goals. Through direct fiscal sponsorship, we support the work of the [Dat Project](datproject.org), [Stencila](stenci.la), and [ScienceFair](www.sciencefair-app.com).
+text: I work on projects that open research, improve reproducibility, and create public access to information. I am the Co-Executive Director of [Code for Science & Society](codeforscience.org) (CS&S). Along with my Co-Director [Joe Hand](jhand.space), I run programs that support open source communities, build open source public interest technologies, and sponsor projects to achieve their goals. Through direct fiscal sponsorship, we support the work of the [Dat Project](datproject.org), [Stencila](stenci.la), and [ScienceFair](www.sciencefair-app.com). Read more about my work and the work of CS&S on the [Dat Project blog](blog.datproject.org)
 
- 
+
 ----
 visible: true

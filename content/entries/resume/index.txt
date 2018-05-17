@@ -4,4 +4,12 @@ view: entry
 ----
 date: 2018-03-20
 ----
-text: During my fellowship with Mozilla Science, I got into the habit of updating a markdown resume with all the speaking, workshops, conferences, and other stuff I am doing. It's way too much information. But it helps me keep track of everything, so I keep it updated. (Thanks Aure!) Check it out [here](https://github.com/daniellecrobinson/daniellecrobinson.github.io/blob/master/Danielle_Robinson_resume.md).
+text:
+
+![](/content/entries/resume/miniWOWPDX-2017-group-pic.png)
+*The [Working Open Workshop PDX](http://www.daniellecrobinson.com/mini-wow-pdx/), an event I ran in collaboration with the OHSU Library and Mozilla Science.*
+
+During my fellowship with Mozilla Science, I got into the habit of updating a markdown resume with all the speaking, workshops, conferences, and other stuff I am doing. It's way too much information. But it helps me keep track of everything, so I keep it updated. (Thanks Aure!) Check it out [here](https://github.com/daniellecrobinson/daniellecrobinson.github.io/blob/master/Danielle_Robinson_resume.md).
+
+![](/content/entries/resume/mozvan.jpeg)
+*Mozilla Science in Cape Town, South Africa in 2017*

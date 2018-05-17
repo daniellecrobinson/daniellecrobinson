@@ -4,4 +4,10 @@ view: entry
 ----
 date: 2018-03-20
 ----
-text: I completed a PhD in Neuroscience at Oregon Health & Science University in 2016. During my PhD training, I received a National Science Foundation Graduate Research Fellowship. I lead student advocacy efforts on my campus, including the passage of OHSU's PhD student parental leave policy, and supported the local open research community through programs including Open Insight PDX, BioData Club, and Science Hack Day PDX. In 2016, I joined Mozilla's Science Lab as a Mozilla Fellow for Science, where I ran in Working Open Workshops around the world and explored decentralized data archiving as a DataRescue strategy.
+text:
+
+![](/content/entries/biography/900yroldcoffeeshop.png)
+*Working remotely from a 900 year old coffee shop in London*
+
+
+I completed a PhD in Neuroscience at Oregon Health & Science University in 2016. During my PhD training, I received a National Science Foundation Graduate Research Fellowship. I lead student advocacy efforts on my campus, including the passage of OHSU's PhD student parental leave policy, and supported the local open research community through programs including Open Insight PDX, BioData Club, and Science Hack Day PDX. In 2016, I joined Mozilla's Science Lab as a Mozilla Fellow for Science, where I ran in Working Open Workshops around the world and explored decentralized data archiving as a DataRescue strategy.

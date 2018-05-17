@@ -4,4 +4,12 @@ view: entry
 ----
 date: 2018-03-20
 ----
-text: We empower communities to work together and build innovative technology for the public good. Learn more about our work on [our site](codeforscience.org).
+text:
+![](/content/entries/css/IMG_0869_crop.JPG)
+*A view of my home city from above*
+
+We empower communities to work together and build innovative technology for the public good.
+
+What does that mean? We work with people to help them run great projects and tackle open source community issues through our Collaborative Communities program. We build software to improve public access to information via our Foundational Technology program. And we sponsor people, projects, and ideas with direct fiscal sponsorship through the Sponsored Projects program.
+
+Learn more about our work on [our site](codeforscience.org).
